@@ -23,7 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukandogru&show_icons=true&locale=en&layout=compact" alt="dogukandogru" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukandogru&show_icons=true&locale=en" alt="dogukandogru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukandogru&" alt="dogukandogru" /></p>
