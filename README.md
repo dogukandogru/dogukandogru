@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dogukandogruu@gmail.com**
 
-- 📄 Know about my experiences [www.dogukandogru.com/cv](www.dogukandogru.com/cv)
+- 📄 Know about my experiences [http://www.dogukandogru.com/cv](http://www.dogukandogru.com/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
